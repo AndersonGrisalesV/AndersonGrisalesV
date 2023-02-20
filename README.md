@@ -2,9 +2,6 @@
 
 <!--
 **AndersonGrisalesV/AndersonGrisalesV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
--->
-
 @font-face {
   font-family: 'Mona Sans';
   src:
@@ -22,6 +19,9 @@
   font-weight: 200 900;
   font-stretch: 75% 125%;
 }
+
+-->
+
 
 Here are some ideas to get you started:
 
