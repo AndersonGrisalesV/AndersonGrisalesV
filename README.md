@@ -76,8 +76,7 @@ Here are some ideas to get you started:
      <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github" height="30" />
      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" height="30" /> 
      <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" height="30" /> 
-  </br>
-   <img src="https://img.shields.io/badge/Cloudinary-blue?style=for-the-badge" alt="Cloudinary" height="30" /> 
+   
     
  </div>
 
@@ -85,12 +84,5 @@ Here are some ideas to get you started:
 
 
 
-
-
-
-
-
-
-</br>
 
 
