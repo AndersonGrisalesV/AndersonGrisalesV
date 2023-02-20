@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 <h1> Who am I? </h1>
 </div>
 
+---
+
 <div align="center">
 <h1> 🛠️ Languages and Tools </h1>
 </div>
@@ -39,7 +41,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">  
-   <p >Frontend</p>
+   <p  font-size="10px">Frontend</p>
      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="30" /> 
      <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="ReactRouter" height="30" />
      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript" height="30" />
@@ -55,23 +57,27 @@ Here are some ideas to get you started:
 
 
 <div align="center">  
-   <h2 fontSize="10px">Backend</h2>
-     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="30" /> 
-     <img  src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="ReactRouter" height="30" />
+   <h2>Backend</h2>
+     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Nodejs" height="30" /> 
+     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=whit" alt="ExpressJs" height="30" />  
+     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongodb" height="30" />
+     <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="jwt" height="30" /> 
+     <img src="https://camo.githubusercontent.com/b46e59b09c063a31380646688a68018381767a7a206547c93f896df4643671e9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d2532333030303030662e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465" alt="Mysql" height="30" /> 
+    
  </div>
 
 
-
+---
 
 
 **Backend:**
 
-![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![expressjs](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
-![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![nodejs]()&nbsp;
+![expressjs](e)&nbsp;
+![mongodb]()&nbsp;
 ![MySQL](https://camo.githubusercontent.com/b46e59b09c063a31380646688a68018381767a7a206547c93f896df4643671e9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d2532333030303030662e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-blue?style=for-the-badge)
-![jwt](	https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)&nbsp;
+![jwt](	)&nbsp;
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 **Other tools:**
