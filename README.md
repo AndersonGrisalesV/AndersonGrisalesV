@@ -28,12 +28,12 @@ Here are some ideas to get you started:
 ---
 
 <div align="center">
-<h1> 🛠️ Languages and Tools </h1>
+  <h1> 🛠️ Languages and Tools </h1>
 </div>
 
-**Design:**
 
 <div align="center">  
+
   <h2>Design</h2>
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" height="30" /> 
     <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="AdobeXd" height="30" /> </div>
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">  
-   <p  font-size="10px">Frontend</p>
+   <h2>Frontend</h2>
      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="30" /> 
      <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="ReactRouter" height="30" />
      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript" height="30" />
@@ -77,7 +77,6 @@ Here are some ideas to get you started:
      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" height="30" /> 
      <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" height="30" /> 
   </br>
-     <img src="https://camo.githubusercontent.com/b46e59b09c063a31380646688a68018381767a7a206547c93f896df4643671e9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d2532333030303030662e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465" alt="Mysql" height="30" /> 
    <img src="https://img.shields.io/badge/Cloudinary-blue?style=for-the-badge" alt="Cloudinary" height="30" /> 
     
  </div>
