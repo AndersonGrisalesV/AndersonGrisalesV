@@ -1,6 +1,7 @@
 
+![image](https://user-images.githubusercontent.com/94204560/220498840-9de84632-55b2-49b9-bd18-3b50eff259d9.png)
 
-<img src="https://user-images.githubusercontent.com/94204560/220208543-a7a8c3aa-4a70-48a4-b2a1-01b3449cb0a6.gif">
+
 
 
 
@@ -72,6 +73,10 @@ Here are some ideas to get you started:
      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" height="30" /> 
      <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" height="30" />     
  </div>
+ 
+ ---
+ 
+ <img src="https://user-images.githubusercontent.com/94204560/220208543-a7a8c3aa-4a70-48a4-b2a1-01b3449cb0a6.gif">
 
 
 
