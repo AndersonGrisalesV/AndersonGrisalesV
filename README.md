@@ -9,15 +9,6 @@
 </div>
 
  </br>
- 
-<div align="center">  
-   <img src="https://user-images.githubusercontent.com/94204560/220772399-79589f01-3096-463f-889d-d0af4f9e0a59.png" alt="Figma" height="80"/> 
-</div>
-
-<div align="center">  
-   <img src="https://user-images.githubusercontent.com/94204560/220772258-45389557-f798-4e44-95f3-62ed2eed731b.png" alt="AdobeXD" height="80"/> 
-
-</div>
 
 
 
@@ -37,7 +28,7 @@
  </tr>
     <tr>
      <td><img src="https://user-images.githubusercontent.com/94204560/220782753-e4dab9bb-99e0-431f-aa87-4981b958c95b.png" alt="mockup"/></td>
-    <td><img src="https://user-images.githubusercontent.com/94204560/220781285-7376b131-295f-470f-8080-604b847a05eb.png" alt="mockup"/></td>
+    <td><img src="https://user-images.githubusercontent.com/94204560/220784329-e0db9233-b92d-4cb5-b8f7-1e6f85c62456.png" alt="mockup"/></td>
  </tr>
 </table>
 
