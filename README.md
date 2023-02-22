@@ -2,9 +2,6 @@
 
 
 
-
-
-
 <div align="center">
 <h1> Hello there, I'm Anderson </h1>
 </div>
@@ -13,10 +10,12 @@
   <h1> 🛠️ Languages and Tools </h1>
 </div>
 
-<div align="left">  
+<div align="center">  
  </br>
-    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" height="30" /> 
-    <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="AdobeXd" height="30" /> 
+   <img src="https://user-images.githubusercontent.com/94204560/220528652-c112a1ed-ddb0-4d49-9d36-6335a91b5eed.png" alt="Figma" height="80" /> 
+
+
+
 </div>
 
 
