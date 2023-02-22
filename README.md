@@ -23,6 +23,7 @@
 
 
 
+
 <table>
   <tr>
       <td>
@@ -30,6 +31,9 @@
     </td>
     <td>
         <img src="https://user-images.githubusercontent.com/94204560/220775443-b7fd445d-0922-4f49-8937-c8d7654ee5d6.png" alt="mockup" />
+      </td>
+     <td>
+        <img src="https://user-images.githubusercontent.com/94204560/220776450-06c5d213-f5fc-4415-8036-174e8c1501c6.png" alt="mockup" />
       </td>
   </tr>
 
