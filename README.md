@@ -1,5 +1,3 @@
-![image](https://user-images.githubusercontent.com/94204560/220520243-20759042-50ce-4ad1-84c0-cbc17303cebf.png)
-
 
 
 <div align="center">
@@ -10,11 +8,34 @@
   <h1> 🛠️ Languages and Tools </h1>
 </div>
 
-<div align="center">  
  </br>
-   <img src="https://user-images.githubusercontent.com/94204560/220528652-c112a1ed-ddb0-4d49-9d36-6335a91b5eed.png" alt="Figma" height="80" /> 
-</div>
  
+<div align="center">  
+   <img src="https://user-images.githubusercontent.com/94204560/220772399-79589f01-3096-463f-889d-d0af4f9e0a59.png" alt="Figma" height="80"/> 
+</div>
+
+<div align="center">  
+   <img src="https://user-images.githubusercontent.com/94204560/220772258-45389557-f798-4e44-95f3-62ed2eed731b.png" alt="AdobeXD" height="80"/> 
+
+</div>
+
+
+
+
+
+<table>
+  <tr>
+      <td>
+        <img src="https://user-images.githubusercontent.com/94204560/220774325-18eea7f8-b4d4-4e21-ac73-444b1f39263e.png" alt="mockup" />
+    </td>
+    <td>
+        <img src="https://user-images.githubusercontent.com/94204560/220775443-b7fd445d-0922-4f49-8937-c8d7654ee5d6.png" alt="mockup" />
+      </td>
+  </tr>
+
+</table>
+
+
 
 
 <div align="left">  
