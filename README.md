@@ -22,8 +22,6 @@
 
 
 
-
-
 <table>
   <tr>
      <td><img src="https://user-images.githubusercontent.com/94204560/220774325-18eea7f8-b4d4-4e21-ac73-444b1f39263e.png" alt="mockup"/></td>
@@ -33,6 +31,14 @@
     <td><img src="https://user-images.githubusercontent.com/94204560/220776450-06c5d213-f5fc-4415-8036-174e8c1501c6.png" alt="mockup"/></td>
     <td><img src="https://user-images.githubusercontent.com/94204560/220776744-bf407025-13e5-463b-98dc-0c42d7e497c9.png" alt="mockup"/></td>
   </tr>
+    <tr>
+     <td><img src="https://user-images.githubusercontent.com/94204560/220778698-043fb22d-5f9f-4195-86a5-8a1abdc7e237.png" alt="mockup"/></td>
+    <td><img src="https://user-images.githubusercontent.com/94204560/220781285-7376b131-295f-470f-8080-604b847a05eb.png" alt="mockup"/></td>
+ </tr>
+    <tr>
+     <td><img src="https://user-images.githubusercontent.com/94204560/220782753-e4dab9bb-99e0-431f-aa87-4981b958c95b.png" alt="mockup"/></td>
+    <td><img src="https://user-images.githubusercontent.com/94204560/220781285-7376b131-295f-470f-8080-604b847a05eb.png" alt="mockup"/></td>
+ </tr>
 </table>
 
 
