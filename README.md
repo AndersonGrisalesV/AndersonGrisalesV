@@ -33,8 +33,12 @@
 
  
  ---
- 
-  <kbd><img src="https://user-images.githubusercontent.com/94204560/220208543-a7a8c3aa-4a70-48a4-b2a1-01b3449cb0a6.gif" height="auto" width="500" style="border-radius:50%"></kbd>
+ <div align="center">
+  <kbd>
+    <img src="https://user-images.githubusercontent.com/94204560/220208543-a7a8c3aa-4a70-48a4-b2a1-01b3449cb0a6.gif" height="auto" width="500" style="border-radius:50%">
+  </kbd>
+  
+</div>
 
 
 
