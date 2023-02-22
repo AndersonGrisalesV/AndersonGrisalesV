@@ -1,29 +1,10 @@
-
-![image](https://user-images.githubusercontent.com/94204560/220498840-9de84632-55b2-49b9-bd18-3b50eff259d9.png)
-
-
+![image](https://user-images.githubusercontent.com/94204560/220506137-a5d96f1c-ab3f-4de8-8306-823356dea25b.png)
+![image](https://user-images.githubusercontent.com/94204560/220508204-1360158c-860b-420e-aa03-9a75d305a028.png)
 
 
 
 <div align="center">
-<h1> Hello there, I'm Anderson <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> </h1>
-</div>
-
-Here are some ideas to get you started:
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-<div align="center">
-<h1> Who am I? </h1>
+<h1> Hello there, I'm Anderson </h1>
 </div>
 
 <div align="left">
