@@ -13,6 +13,7 @@
  </br>
 
 
+
 <table>
 
   <tr align="center">
@@ -25,14 +26,16 @@
     <td><img src="https://user-images.githubusercontent.com/94204560/220776744-bf407025-13e5-463b-98dc-0c42d7e497c9.png" alt="mockup" width="80%"/></td>
   </tr>
     <tr align="center">
-     <td><img src="https://user-images.githubusercontent.com/94204560/220778698-043fb22d-5f9f-4195-86a5-8a1abdc7e237.png" alt="mockup" width="50%"/></td>
+     <td><img src="https://user-images.githubusercontent.com/94204560/220804178-8265e276-f0d8-4897-8a50-fd9bcb129a82.png" alt="mockup" width="50%"/></td>
     <td><img src="https://user-images.githubusercontent.com/94204560/220781285-7376b131-295f-470f-8080-604b847a05eb.png" alt="mockup" width="80%"/></td>
  </tr>
     <tr align="center">
      <td><img src="https://user-images.githubusercontent.com/94204560/220782753-e4dab9bb-99e0-431f-aa87-4981b958c95b.png" alt="mockup" width="70%"/></td>
-    <td><img src="https://user-images.githubusercontent.com/94204560/220784329-e0db9233-b92d-4cb5-b8f7-1e6f85c62456.png" alt="mockup" width="70%"/></td>
+    <td><img src="https://user-images.githubusercontent.com/94204560/220804064-0bf7ef83-c22e-412c-90f3-7c38c2cd34ee.png" alt="mockup" width="70%"/></td>
  </tr>
 </table>
+
+
 
 
  
@@ -45,7 +48,7 @@
 </div>
 
 
-
+   
 
 
 
