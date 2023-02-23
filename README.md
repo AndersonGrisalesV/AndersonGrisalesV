@@ -2,16 +2,17 @@
 ![image](https://user-images.githubusercontent.com/94204560/220785235-e1717e2e-7468-47e7-bf67-42803da4319e.png)
 
 
+
 <div align="center">
-<h2> Hello there, I'm Anderson<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"/> </h2>
-  <p>Hey there, I'm [Your Name], a systems engineering graduate turned MERN stack web developer and UX/UI designer. I love exploring the latest technologies and pushing the boundaries of what's possible. I've participated in open-source contribution programs and hackathons, and I'm always up for collaborating and contributing to new projects.</p>
+<h2> Hello there, I'm Anderson ⚡ </h2>
+  <p>A systems engineering graduate turned MERN stack web developer and UX/UI designer. I really like exploring the latest technologies and pushing the boundaries of what's possible. Whether I'm working on a solo project or collaborating with a team, learning a new technology or building a website/design or an app from scratch, I'm always looking for ways to improve my skills and expand my horizons.</p>
 </div>
 
 <div align="center">
-  <h2>  Languages and Tools 🛠️</h2>
+  <h2> Languages and Tools 🛠️</h2>
 </div>
 
- </br>
+
  
 ---
 
@@ -37,6 +38,14 @@
 </table>
 
  ---
+ 
+ </br>
+ 
+ <div align="center">
+  <h2> Conenct with me 📫</h2>
+</div>
+
+ 
  
   </br>
  
