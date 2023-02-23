@@ -66,10 +66,9 @@ If you want to contact me, you can reach me through the handle below
 </br>
 
  ---
- </br>
-   
+   <div align="center">
    <img src="https://user-images.githubusercontent.com/94204560/221035818-58b63060-ec5a-42a5-a453-a547f4d4f5a9.png">
-
+</div>
 
    
 
