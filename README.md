@@ -53,9 +53,9 @@ If you want to contact me, you can reach me through the handle below
  
  <div align="center">
     <h3> Check out my latest work 💻</h3>
-     <h6>(Click the Gif below to see live Demo)</h6> 
+     <h6>(Click the Gif below)</h6> 
   <kbd>
-   <a href="https://dplace-3d5f4.web.app/api/homepage"> <img src="https://user-images.githubusercontent.com/94204560/220208543-a7a8c3aa-4a70-48a4-b2a1-01b3449cb0a6.gif" height="auto" width="100%" style="border-radius:50%"></a>
+   <a href="https://github.com/AndersonGrisalesV/Dplace"> <img src="https://user-images.githubusercontent.com/94204560/220208543-a7a8c3aa-4a70-48a4-b2a1-01b3449cb0a6.gif" height="auto" width="100%" style="border-radius:50%"></a>
   </kbd>
   
 </div>
