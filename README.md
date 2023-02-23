@@ -42,10 +42,20 @@
  </br>
  
  <div align="center">
-  <h2> Conenct with me 📫</h2>
+  <h2> Contact 📫</h2>
 </div>
 
- 
+</br>
+
+ <div align="center">
+If you want to contact me, you can reach me through the handle below
+</br>
+
+ <img src="https://user-images.githubusercontent.com/94204560/220808171-a94eb8fb-df52-4d39-82d1-b5cf71e3a612.png" alt="mockup" width="10%"/> 
+
+ </div>
+
+grisalesvargasanderson@gmail.com
  
   </br>
  
