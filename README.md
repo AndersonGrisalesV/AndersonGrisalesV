@@ -38,16 +38,9 @@
 </table>
 
  ---
- 
-
- 
- <div align="center">
-  <h3> Contact 📫</h3>
-</div>
-
-</br>
 
  <div align="center">
+   <h3> Contact 📫</h3>
 If you want to contact me, you can reach me through the handle below
 </br>
 
@@ -56,12 +49,11 @@ If you want to contact me, you can reach me through the handle below
 <a href="https://mail.google.com/mail/u/0">grisalesvargasanderson@gmail.com</a>
  </div>
 
-  
-  </br>
+  ---
  
  <div align="center">
     <h3> Check out my latest work 💻</h3>
-     <h6>(Click the link below to see live Demo)</h6> 
+     <h6>(Click the Gf low to see live Demo)</h6> 
   <kbd>
     <img src="https://user-images.githubusercontent.com/94204560/220208543-a7a8c3aa-4a70-48a4-b2a1-01b3449cb0a6.gif" height="auto" width="100%" style="border-radius:50%">
   </kbd>
