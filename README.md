@@ -4,6 +4,7 @@
 
 <div align="center">
 <h2> Hello there, I'm Anderson<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"/> </h2>
+  <p>Hey there, I'm [Your Name], a systems engineering graduate turned MERN stack web developer and UX/UI designer. I love exploring the latest technologies and pushing the boundaries of what's possible. I've participated in open-source contribution programs and hackathons, and I'm always up for collaborating and contributing to new projects.</p>
 </div>
 
 <div align="center">
@@ -11,8 +12,8 @@
 </div>
 
  </br>
-
-
+ 
+---
 
 <table>
 
@@ -35,11 +36,10 @@
  </tr>
 </table>
 
-
-
-
- 
  ---
+ 
+  </br>
+ 
  <div align="center">
   <kbd>
     <img src="https://user-images.githubusercontent.com/94204560/220208543-a7a8c3aa-4a70-48a4-b2a1-01b3449cb0a6.gif" height="auto" width="100%" style="border-radius:50%">
