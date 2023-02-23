@@ -8,15 +8,15 @@
   <p>A systems engineering graduate turned MERN stack web developer and UX/UI designer. I really like exploring the latest technologies and pushing the boundaries of what's possible. Whether I'm working on a solo project or collaborating with a team, learning a new technology or building a website/design or an app from scratch, I'm always looking for ways to improve my skills and expand my horizons.</p>
 </div>
 
-<div align="center">
-  <h2> Languages and Tools 🛠️</h2>
-</div>
 
 
  
 ---
 
 <table>
+<div align="center">
+  <h3> Languages and Tools 🛠️</h3>
+</div>
 
   <tr align="center">
      <td><img src="https://user-images.githubusercontent.com/94204560/220774325-18eea7f8-b4d4-4e21-ac73-444b1f39263e.png" alt="mockup" width="55%"/></td>
@@ -52,11 +52,19 @@ If you want to contact me, you can reach me through the handle below
 </br>
 
  <img src="https://user-images.githubusercontent.com/94204560/220808171-a94eb8fb-df52-4d39-82d1-b5cf71e3a612.png" alt="mockup" width="10%"/> 
-
+ </br>
+<a>grisalesvargasanderson@gmail.com</a>
  </div>
 
 grisalesvargasanderson@gmail.com
  
+  </br>
+  
+  <div align="center">
+  <h2>  Check out my latest work 💻</h2>
+</div>
+ 
+  
   </br>
  
  <div align="center">
