@@ -58,15 +58,14 @@ If you want to contact me, you can reach me through the handle below
    <a href="https://dplace-3d5f4.web.app/api/homepage"> <img src="https://user-images.githubusercontent.com/94204560/220208543-a7a8c3aa-4a70-48a4-b2a1-01b3449cb0a6.gif" height="auto" width="100%" style="border-radius:50%"></a>
   </kbd>
   
-  </br>
-  
-  
 </div>
 
 </br>
 
  ---
-   <div align="center">
+ 
+<div align="center">
+ 
    <img src="https://user-images.githubusercontent.com/94204560/221035818-58b63060-ec5a-42a5-a453-a547f4d4f5a9.png">
 </div>
 
