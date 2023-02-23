@@ -53,7 +53,7 @@ If you want to contact me, you can reach me through the handle below
 
  <img src="https://user-images.githubusercontent.com/94204560/220808171-a94eb8fb-df52-4d39-82d1-b5cf71e3a612.png" alt="mockup" width="10%"/> 
  </br>
-<a href="grisalesvargasanderson@gmail.com">grisalesvargasanderson@gmail.com</a>
+<a href="https://mail.google.com/mail/u/0">grisalesvargasanderson@gmail.com</a>
  </div>
 
 
