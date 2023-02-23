@@ -4,19 +4,19 @@
 
 
 <div align="center">
-<h2> Hello there, I'm Anderson ⚡ </h2>
+<h3> Hello there, I'm Anderson ⚡ </h3>
   <p>A systems engineering graduate turned MERN stack web developer and UX/UI designer. I really like exploring the latest technologies and pushing the boundaries of what's possible. Whether I'm working on a solo project or collaborating with a team, learning a new technology or building a website/design or an app from scratch, I'm always looking for ways to improve my skills and expand my horizons.</p>
 </div>
 
 
 
- 
+ <div align="center">
+  <h3> Languages and Tools 🚀</h3>
+</div>
+
 ---
 
 <table>
-<div align="center">
-  <h3> Languages and Tools 🛠️</h3>
-</div>
 
   <tr align="center">
      <td><img src="https://user-images.githubusercontent.com/94204560/220774325-18eea7f8-b4d4-4e21-ac73-444b1f39263e.png" alt="mockup" width="55%"/></td>
@@ -39,10 +39,10 @@
 
  ---
  
- </br>
+
  
  <div align="center">
-  <h2> Contact 📫</h2>
+  <h3> Contact 📫</h3>
 </div>
 
 </br>
@@ -61,7 +61,7 @@ If you want to contact me, you can reach me through the handle below
   </br>
   
   <div align="center">
-  <h2>  Check out my latest work 💻</h2>
+  <h3> Check out my latest work 💻</h3>
 </div>
  
   
