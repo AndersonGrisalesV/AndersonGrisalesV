@@ -64,12 +64,16 @@ If you want to contact me, you can reach me through the handle below
 
  ---
  
-<div align="center">
+<div align="center" >
  
-   <img src="https://user-images.githubusercontent.com/94204560/221035818-58b63060-ec5a-42a5-a453-a547f4d4f5a9.png">
+   <img src="https://user-images.githubusercontent.com/94204560/253412938-5d766a5f-4e39-40c7-992d-978929daa924.gif">
+
 </div>
 
-   
+
+
+
+
 
 
 
