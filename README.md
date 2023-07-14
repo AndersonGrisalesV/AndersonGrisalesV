@@ -67,15 +67,10 @@ If you want to contact me, you can reach me through the handle below
 <div align="center">
  <h3> Protfolio 🔥</h3>
      <h6>(Click the Gif below)</h6> 
-  <a href="https://github.com/AndersonGrisalesV/portfolio">   <img src="https://user-images.githubusercontent.com/94204560/253412938-5d766a5f-4e39-40c7-992d-978929daa924.gif"  height="auto" width="100%" style="border-radius:50%"></a>
+  <a href="https://github.com/AndersonGrisalesV/portfolio">   <img src="https://user-images.githubusercontent.com/94204560/253456652-dfa3020e-1178-4d89-8012-d4989b7868fc.gif"  height="auto" width="100%" style="border-radius:50%"></a>
 
 
 </div>
-
-
-
-
-
 
 
 
