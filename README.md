@@ -35,9 +35,17 @@
      <td><img src="https://user-images.githubusercontent.com/94204560/220782753-e4dab9bb-99e0-431f-aa87-4981b958c95b.png" alt="Npm and Jwt and Cloudinary" width="70%"/></td>
     <td><img src="https://user-images.githubusercontent.com/94204560/220804064-0bf7ef83-c22e-412c-90f3-7c38c2cd34ee.png" alt="Git and Github and Postman" width="70%"/></td>
  </tr>
+  </tr>
+    <tr align="center">
+     <td><img src="https://user-images.githubusercontent.com/94204560/257015697-692f86a1-b481-4629-a711-92d62471a476.png" alt="Python" width="40%"/></td>
+   
+ </tr>
 </table>
 
  ---
+
+
+
 
 
 
