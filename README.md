@@ -62,7 +62,7 @@ If you want to contact me, you can reach me through the handle below
   ---
  
  <div align="center">
-    <h3> Check out my latest work 💻</h3>
+    <h3> Old Projects! 💻</h3>
      <h6>(Click the Gif below)</h6> 
   <kbd>
    <a href="https://github.com/AndersonGrisalesV/Dplace"> <img src="https://user-images.githubusercontent.com/94204560/220208543-a7a8c3aa-4a70-48a4-b2a1-01b3449cb0a6.gif" height="auto" width="100%" style="border-radius:50%"></a>
@@ -75,10 +75,10 @@ If you want to contact me, you can reach me through the handle below
  ---
  
 <div align="center">
- <h3> Protfolio 🔥</h3>
+ <h3> V1 Protfolio (old) 🔥</h3>
      <h6>(Click the Gif below)</h6> 
   <a href="https://github.com/AndersonGrisalesV/portfolio">   <img src="https://user-images.githubusercontent.com/94204560/253456652-dfa3020e-1178-4d89-8012-d4989b7868fc.gif"  height="auto" width="100%" style="border-radius:50%"></a>
-
+  <p>✨ V2 Portfolio is in the making! Stay tuned for updates. ✨</p>
 
 </div>
 
