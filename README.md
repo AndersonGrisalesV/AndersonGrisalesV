@@ -6,7 +6,7 @@
 <div align="center">
 <h3> Hello there, I'm Anderson ⚡ </h3>
   <p>Software Engineer and AI Enthusiast 🤖
-I am a results-driven Software Engineer with over 4 years of experience in designing, developing, and deploying scalable software solutions. My expertise spans full-stack development, AI integration, cloud computing, UX/UI Design and DevOps practices. I’ve had the opportunity to work on innovative projects, improving efficiency, optimizing workflows, and enhancing user experiences across multiple technologies. 🔥 Passionate about AI I and continuous learning, I specialize in providing high-quality solutions in fast-paced environments.</p>
+I am a results-driven Software Engineer with over 4 years of experience in designing, developing, and deploying scalable software solutions. My expertise spans full-stack development, AI integration, cloud computing, UX/UI Design and DevOps practices. I’ve had the opportunity to work on innovative projects, improving efficiency, optimizing workflows, and enhancing user experiences across multiple technologies. 🔥 Passionate about AI I and continuous learning, I specialize in providing high-quality solutions in ever-evolving and innovative settings.</p>
 </div>
 
 
