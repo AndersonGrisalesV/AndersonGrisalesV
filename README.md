@@ -1,6 +1,4 @@
-
-![Group 49 (11)](https://github.com/user-attachments/assets/6957040a-dc50-422b-9a41-48fd689b06bb)
-
+![Group 49 (11)](https://github.com/user-attachments//assets/59565c20-6b3d-4fc5-89a9-693de6268750)
 
 
 <div align="center">
